@@ -18,7 +18,7 @@ I'm building things end to end to learn how the pieces fit — from a request hi
 
 - 💻 Engineer who got pulled into software and decided to stay.
 - 🎓 Biosystems Engineering, USP.
-- 📍 Pirassununga, Brazil.
+- 📍 São Paulo, Brazil.
 - 🧠 Permanently mid-project. Always learning something I'll pretend I always knew.
 
 ---
