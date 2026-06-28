@@ -13,8 +13,8 @@ I came to programming through engineering problems that were easier to solve wit
 
 ### 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,git,github,vscode,mysql,postgresql,fastapi,c++" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,git,github,vscode,mysql,postgresql,fastapi,blender,cpp" />
 </p>
 
 
